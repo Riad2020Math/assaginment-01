@@ -235,7 +235,7 @@ border-radius: 16px;
 background: rgb(255, 255, 255);
 /* Frame 2087325495 */
 position: static;
-width: 302px;
+width: 310px;
 height: 300px;
 /* Auto layout */
 display: flex;
@@ -243,7 +243,7 @@ flex-direction: column;
 justify-content: space-between;
 align-items: flex-start;
 gap: 24;
-padding: 24px;
+padding: 30px;
 
 
 /* Inside Auto Layout */
@@ -312,5 +312,5 @@ flex: none;
 order: 1;
 align-self: stretch;
 flex-grow: 0;
-margin: 12px 0px;
+margin: 12px 0px 15px 0px;
 }
