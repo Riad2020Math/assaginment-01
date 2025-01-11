@@ -321,7 +321,7 @@ margin: 12px 0px 15px 0px;
     /* Frame 2087325504 */
 position: static;
 width: 1280px;
-height: 765px;
+height: 565px;
 /* Auto layout */
 display: flex;
 flex-direction: column;
@@ -733,4 +733,191 @@ font-weight: 400;
 line-height: 24px;
 letter-spacing: 0%;
 text-align: left;
+}
+.sec4{
+    /* Frame 2087325504 */
+position: static;
+width: 1280px;
+height: 165px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 32;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 160px;
+}
+.sec5{
+    
+        /* Frame 2087325504 */
+    position: static;
+    width: 1280px;
+    height: 600px;
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
+    gap: 32;
+    padding: 0px;
+    
+    
+    /* Inside Auto Layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+    margin: 0px 160px;
+    
+}
+.sec6-1{
+    /* Frame 2087325509 */
+position: static;
+width: 1280px;
+height: 402px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: center;
+gap: 32;
+padding: 48px 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+border-radius: 24px;
+
+background: rgb(255, 255, 255);
+}
+.sec6-img{
+    /* image 3 */
+position: static;
+width: 408px;
+height: 306px;
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 32px;
+border-radius: 24px;
+
+background: url(satelite.png);
+}
+.sec6-h{
+    /* Bangladesh Launches New Satellite */
+position: static;
+width: 744px;
+height: 38px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 32px;
+font-weight: 700;
+line-height: 38px;
+letter-spacing: 0%;
+text-align: left;
+}
+.sec6-p1{
+    /* Frame 2087325508 */
+position: static;
+width: 744px;
+height: 24px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+
+}
+.sec6-p2{
+    /* Not until the creation and maintenance of decent conditions of life for all people are recognized and accepted as a common obligation of all people and all countries—not until then shall we, with a certain degree of justification, be able to speak of humankind as civilized */
+position: static;
+width: 744px;
+height: 72px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.sec6{
+    
+    /* Frame 2087325504 */
+position: static;
+width: 1280px;
+height: 420px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-end;
+gap: 32;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px 160px;
+
 }
