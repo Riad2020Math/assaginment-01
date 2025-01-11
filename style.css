@@ -921,3 +921,237 @@ flex-grow: 0;
 margin: 0px 160px;
 
 }
+.sec7{
+    /* Frame 2087325516 */
+position: static;
+width: 1280px;
+height: 464px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 32;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+margin: 80px 160px;
+}
+.sec7-h{
+/* Donate Today */
+position: static;
+width: 1280px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 24;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 24px 0px;
+color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: center;
+}
+.sec7-p{
+    /* Bangladesh 2.0 aims to redefine the nation’s trajectory by embracing cutting-edge technology, promoting inclusive growth, and ensuring sustainability. With initiatives in renewable energy, digital transformation, and robust infrastructure. */
+position: static;
+width: 1104px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 24;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+}
+.donation-options {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin-bottom: 20px;
+  }
+  
+  .donate-btn {
+    background-color: #008000;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+.sec7-p-all{
+/* Frame 2087325514 */
+position: static;
+width: 1071px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+/* justify-content: flex-start;
+align-items: center; */
+gap: 24;
+padding: 10px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.sec7p-taka{
+    /* Frame 2087325513 */
+position: static;
+width: 300px;
+height: 128px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 24;
+padding: 40px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+
+letter-spacing: 0%;
+text-align: left;/* 100 Taka */
+position: static;
+width: 160px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 12px 0px;
+}
+.foot{
+    background: rgb(255, 255, 255);
+    /* Frame 2087325621 */
+position: static;
+width: 1600px;
+height: 226px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 32;
+padding: 50px 160px 50px 160px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 6;
+align-self: stretch;
+flex-grow: 0;
+margin: 80px 0px;
+}
+.foot-head{
+    color: rgb(14, 14, 14);
+    font-family: Fira Sans;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0%;
+    text-align: left;
+    /* Bangladesh 2.0 */
+position: static;
+width: 222px;
+height: 38px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: center;
+gap: 16;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 16px 0px;
+}
+.foot-div{
+    /* Frame 2087325569 */
+position: static;
+width: 120.55px;
+height: 24px;
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 23;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+margin: 32px 0px;
+}
+.img{
+    class="img"
+}
