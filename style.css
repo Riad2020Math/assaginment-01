@@ -79,7 +79,7 @@ text-align: center;
 .sec1{
     /* Frame 4 */
 /* position: static; */
-/* width: 1280px;*/
+width: 1280px;
 height: 560px; 
 /* Auto layout */
 display: flex;
@@ -187,4 +187,130 @@ background: rgb(0, 106, 80);
 }
 .sec1-img{
     margin-left: 100px;
+}
+.sec2{
+ margin: 0px 160px;
+ height: auto;
+ padding: 100px 0px;
+}
+.pillar-head{
+    margin: 150px;
+    color: rgb(14, 14, 14);
+font-family: Fira Sans;
+font-size: 40px;
+font-weight: 700;
+line-height: 48px;
+letter-spacing: 0%;
+text-align: left;
+/* Pillars of "Bangladesh 2.0" */
+position: static;
+width: 1280px;
+height: 48px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 32;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 20px 0px 50px 0px;
+}
+.pillar{
+    display: flex;
+    flex-direction: row;
+    
+}
+.pillar1{
+    box-sizing: border-box;
+border: 1px solid rgba(14, 14, 14, 0.15);
+border-radius: 16px;
+
+background: rgb(255, 255, 255);
+/* Frame 2087325495 */
+position: static;
+width: 302px;
+height: 300px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+gap: 24;
+padding: 24px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px 24px;
+}
+#pi1{
+  margin-left: 0px;
+}
+.pillar-img{
+
+}
+.pillar-h{
+    /* Innovation */
+position: static;
+width: 254px;
+height: 24px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
+color: rgba(14, 14, 14, 0.8);
+font-family: Fira Sans;
+font-size: 20px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+}
+.pillar-p{
+    color: rgba(14, 14, 14, 0.7);
+font-family: Fira Sans;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: left;
+/* Dolor sit amet consectetur elit. Facilis quas, ducimus labore sequi quos */
+position: static;
+width: 254px;
+height: 72px;
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: flex-start;
+gap: 12;
+padding: 0px;
+
+
+/* Inside Auto Layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+margin: 12px 0px;
 }
